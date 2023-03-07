@@ -1,0 +1,3 @@
+Thomas Edison,Roosevelt
+English,Malay,Spanish
+Guinea pig,Chinchilla,Capybara
